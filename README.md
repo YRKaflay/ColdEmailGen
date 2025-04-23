@@ -16,4 +16,6 @@ I have used Distilled Deepseek-R1(8B) model. This can be replaced with any ollam
 
 Discover Dollar needs a Data Scientist Engineer (Trained Fresher) and is spending time and resources in the hiring process, on boarding, training etc 
 AtlasLabs is Software Development company can provide a dedicated data scientist engineer to Discover Dollar. So, the business development executive (Yash) from AtlasLabs is going to reach out to Discover Dollar via a cold email.
-<img src="https://github.com/YRKaflay/ColdEmailGen/blob/main/img/Screenshot 2025-04-23 191916.png" width="450" title="Screenshot" alt="Preview of the Tool"/>
+
+
+<img src="https://github.com/YRKaflay/ColdEmailGen/blob/main/img/Screenshot 2025-04-23 191916.png" width="900" title="Screenshot" alt="Preview of the Tool"/>
