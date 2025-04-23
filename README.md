@@ -22,3 +22,18 @@ AtlasLabs is Software Development company can provide a dedicated data scientist
 
 ## Architecture
 <img src="https://github.com/YRKaflay/ColdEmailGen/blob/main/img/Career Page.png" width="900" title="Architecture" alt="Architecture Diagram"/>
+
+
+## Setup
+
+Follow the steps below to get the project up and running locally:
+1. Make sure you have Ollama installed on your machine. You can install it by following the instructions on their official website. Once installed, download the LLM model of your choice. For example:
+`ollama run deepseek-r1`
+
+2. Clone the repository to your device
+
+3. Install Python Dependencies using:
+`pip install -r requirements.txt`
+
+4. Run the Streamlit App using:
+`streamlit run app/main.py`
