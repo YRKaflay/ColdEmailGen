@@ -19,3 +19,6 @@ AtlasLabs is Software Development company can provide a dedicated data scientist
 
 
 <img src="https://github.com/YRKaflay/ColdEmailGen/blob/main/img/Screenshot 2025-04-23 191916.png" width="900" title="Screenshot" alt="Preview of the Tool"/>
+
+## Architecture
+<img src="https://github.com/YRKaflay/ColdEmailGen/blob/main/img/Career Page.png" width="900" title="Architecture" alt="Architecture Diagram"/>
